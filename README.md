@@ -9,5 +9,5 @@ HTML
 
 - Images
 - Links
-- Paragraphs, Bald, Italic text.
+- Paragraphs, Bold, Italic text.
 
