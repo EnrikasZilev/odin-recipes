@@ -11,3 +11,7 @@ HTML
 - Links
 - Paragraphs, Bold, Italic text.
 
+CSS 
+
+- Colors
+- Typography properties

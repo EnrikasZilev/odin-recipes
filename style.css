@@ -1,0 +1,94 @@
+* {
+
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #E9FAE3;
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+.name {
+    font-weight: 150;
+    padding-left: 30px;
+    color: #AC92A6;
+    text-align: center;
+    background-color:
+}
+
+.rlist {
+
+    text-align: center;
+    color: #AC92A6;
+    font-weight: 100;
+
+}
+
+.flist {
+
+    list-style-type: none; 
+
+}
+
+strong {
+
+    font-weight: 100;
+    color:rgb(218, 123, 123)
+
+}
+
+p {
+    color: #AC92A6
+}
+
+#tacrolist {
+
+    font-weight: 100;
+
+}
+
+#tacrosteps {
+    text-align:left;
+    font-weight: 100;
+
+}
+
+.goback {
+
+    margin-top: 50px;
+    text-align:center;
+    margin-left: 70px;
+
+}
+
+#step1 {
+
+    margin-left: 10px;
+
+}
+
+a{
+
+    text-decoration: none;
+
+}
+
+.palign {
+
+    text-align: center;
+
+}
+
+.slist {
+    list-style-type: none;
+    color: #AC92A6;
+    text-align: center;
+}
+
+#dough, #filling, #gravy
+{
+    margin-left: 10px;
+
+}
